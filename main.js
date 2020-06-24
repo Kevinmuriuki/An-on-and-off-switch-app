@@ -10,4 +10,4 @@ input.addEventListener('click', () => {
   const content = '<img src="images/pic_bulboff.gif" alt="">';
   image.innerHTML= content;
   }
-})
+});
